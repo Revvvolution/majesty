@@ -26,3 +26,14 @@ console.log(sarah);
 
 const cc = hailTheQueen("MaeMae") // Argument value is "MaeMae"
 console.log(cc);
+
+/******************************************************************************************/
+/******************************************************************************************/
+
+const ramona = hailTheQueen()   // namestring is not defined
+console.log(ramona)
+
+
+const monica = hailTheQuen("Monica Dinglehopper")  // "hailTheQueen" is misspelled "Quen"
+console.log(monica)
+
